@@ -16,6 +16,7 @@ export const UserInfo = styled.div`
     }
 `;
 export const NotificationContainer = styled.div`
+    margin-left: 8px;
     position: relative;
     div{
         height: 12px;
